@@ -4,7 +4,7 @@ import { icons } from '@/constants/icons'
 
 const SearchBar = () => {
   return (
-    <View className='flex-row items-center bg-dark-200 rounded-full px-5 py-4'>
+    <View className='flex-row items-center bg-primary px-4' style={{ borderRadius: 20 }}>
       <Image source={icons.search} className="size-5" resizeMode='contain' tintColor={"#d34343"}/>
       
       <TextInput 

@@ -6,6 +6,7 @@ import service from '@/assets/icons/service.png';
 import history from '@/assets/icons/history.png';
 import profile from '@/assets/icons/profile.png';
 import search from '@/assets/icons/search.png';
+import enter from '@/assets/icons/enter.png';
 
 export const icons = {
     logo,
@@ -16,4 +17,5 @@ export const icons = {
     history,
     profile,
     search,
+    enter,
 };
